@@ -1,5 +1,5 @@
 # Task_1
-# Author: venu gopal chary nerella
+# Author: venu gopal chary
 The Spark Foundation - Data Science and Business Analytics Internship <br><br>
 (GRIP JANUARY'23)
 
